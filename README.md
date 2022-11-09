@@ -1,7 +1,5 @@
 ### Hi there 👋
 
- brief description of what this project does and who it's for
-
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
@@ -9,10 +7,9 @@
 
 - 🔭 I’m currently working on various projects
 - 🌱 I’m currently learning Networking, Cybersecurity and much more.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on cybersecurity projects
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... HE
 
 
 
