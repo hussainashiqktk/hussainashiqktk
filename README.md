@@ -5,13 +5,21 @@
 </div>
 
 🔒 Experienced software engineer with a focus on cybersecurity and building secure systems.
+
 🛡 Proficient in a variety of programming languages including Python, C++ and Java.
+
 🔑 Skilled in securing systems and infrastructure using technologies such as Firewalls, VPN and intrusion detection systems.
+
 🕵️‍♂️ Adept in identifying and mitigating security vulnerabilities in web applications, networks and operating systems.
+
 💡 Always eager to learn and stay up-to-date with the latest industry trends and developments in cybersecurity.
+
 🤝 Strong collaborator with an ability to work well in a team environment and experience in mentoring junior developers.
+
 🔒 Contributes to open-source projects and have experience in mentoring junior developers.
+
 🔒 Available for hire and open to new opportunities. Let's build something secure together!
+
 
 
 
