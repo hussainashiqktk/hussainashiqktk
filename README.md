@@ -1,49 +1,24 @@
-### Hi there 👋
 
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hussainashiqktk) 
 
-🔒 Experienced software engineer with a focus on cybersecurity and building secure systems.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hussainashiqktk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hussainashiqktk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainashiqktk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🛡 Proficient in a variety of programming languages including Python, C++ and Java.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hussainashiqktk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🔑 Skilled in securing systems and infrastructure using technologies such as Firewalls, VPN and intrusion detection systems.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hussainashiqktk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🕵️‍♂️ Adept in identifying and mitigating security vulnerabilities in web applications, networks and operating systems.
-
-💡 Always eager to learn and stay up-to-date with the latest industry trends and developments in cybersecurity.
-
-🤝 Strong collaborator with an ability to work well in a team environment and experience in mentoring junior developers.
-
-🔒 Contributes to open-source projects and have experience in mentoring junior developers.
-
-🔒 Available for hire and open to new opportunities. Let's build something secure together!
-
-
-
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=hussainashiqktk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hussainashiqktk&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-
-
-  <img src="https://img.icons8.com/ios-filled/344/linux.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap" alt="NMap" width="40" height="40"/>&nbsp;
-  <img src="https://jacobriggs.io/tools/app/web/upload/large/3_eedab2dbcde47a63f847af0a612d1f8d.png" title="Nmap" alt="NMap" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/506px-Parrot_Logo.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
- 
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
