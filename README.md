@@ -31,7 +31,7 @@
 - Conducting forensic investigations and incident response  
 - Automating security workflows and reporting  
 
-### **Cybersecurity Analyst Intern @ Inotech Solutions** 🛡  
+### **Cybersecurity Analyst Intern** 🛡  
 📅 *[Start Date] – [End Date]*  
 - Assisted in SIEM configuration & threat detection  
 - Performed security assessments and vulnerability management  
